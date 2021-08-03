@@ -1,4 +1,5 @@
 - Hi, I’m Li Changhao @owenchanghao from the University of Sydney, major in Data Science and Finance.
+- I was on exchange at Fudan University, China (Spring Semester 2021) and University of Pennsylvania, USA (Fall Semester 2018).
 - I’m interested in investing, football (English style = =) and classical music 💗
 - I’m currently learning agile software development, human-in-the-loop and fixed-income security.
 - I’m looking to collaborate on GitHub or HCI projects!
