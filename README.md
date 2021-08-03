@@ -3,8 +3,11 @@
 - I’m currently learning agile software development, human-in-the-loop and fixed-income security.
 - I’m looking to collaborate on GitHub or HCI projects!
 - How to reach me?
+
   ...in China mainland: chli9281@qq.com
+  
   ...in Australia: chli9281@uni.sydney.edu.au
+  
   ...anywhere else: owenchanghaoli@gmail.com
 
 <!---
