@@ -14,17 +14,7 @@ I’m interested in investing, soccer and classical music 💗
 
 
 
-I’m currently learning agile software development, human-in-the-loop and fixed-income security.
-
-
-
-How to reach me?
-
-- in China mainland: chli9281@qq.com
-  
-- in Australia: chli9281@uni.sydney.edu.au
-  
-- anywhere else: owenchanghaoli@gmail.com
+How to reach me? Feel free to send email to changhaoli.gz@outlook.com
 
 <!---
 owenchanghao/owenchanghao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
