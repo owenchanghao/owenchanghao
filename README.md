@@ -19,7 +19,7 @@ Here are some of my featured works:
 - WeChat as Gerontech: https://youtu.be/rjwVaJc965E (as honours thesis presentation)
 
 My other works include:
-- Evaluating UX Book: https://youtu.be/k5_8u3xGH1U (as part of COMP5427 course assignment)
+- Evaluating the UX Book Presentation: https://youtu.be/k5_8u3xGH1U (as part of COMP5427 course assignment)
 - Hello DKU ECE: https://youtu.be/ZZZp-ZKcbMI (as part of application material to DKU)
 
 <!---
