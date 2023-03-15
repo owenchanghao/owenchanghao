@@ -16,6 +16,7 @@ Here are some of my featured works:
 - A Demo of Food-logging App Prototype: https://youtu.be/FUjfoXETBJE (as part of COMP5427 course assignment)
 - Selected Examples of WeChat Design Flaws: https://youtu.be/EzQKc3vNjQs (as part of the honours thesis project)
 - WeChat as Gerontech: https://youtu.be/rjwVaJc965E (as honours thesis presentation)
+- Concepts of Usability Engineering: https://github.com/owenchanghao/selected-works/blob/main/concepts-of-usability-engineering.pdf
 
 
 My other works include:
