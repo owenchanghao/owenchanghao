@@ -13,15 +13,15 @@ How to reach me? Feel free to send email to changhaoli.gz@outlook.com
 
 
 Here are some of my featured works:
-- A Demo of Food-logging App Prototype: https://youtu.be/FUjfoXETBJE (as part of COMP5427 course assignment)
-- Selected Examples of WeChat Design Flaws: https://youtu.be/EzQKc3vNjQs (as part of the honours thesis project)
-- WeChat as Gerontech: https://youtu.be/rjwVaJc965E (as honours thesis presentation)
+- A Demo of Food-logging App Prototype: [Youtube](https://youtu.be/FUjfoXETBJE) (as part of COMP5427 course assignment)
+- Selected Examples of WeChat Design Flaws: [Youtube](https://youtu.be/EzQKc3vNjQs) (as part of the honours thesis project)
+- WeChat as Gerontech: [Youtube](https://youtu.be/rjwVaJc965E) (as honours thesis presentation)
 - Concepts of Usability Engineering: [PDF](https://github.com/owenchanghao/selected-works/blob/main/concepts-of-usability-engineering.pdf)
 
 
 My other works include:
-- Evaluating the UX Book Presentation: https://youtu.be/k5_8u3xGH1U (as part of COMP5427 course assignment)
-- Hello DKU ECE: https://youtu.be/ZZZp-ZKcbMI (as part of application material to DKU)
+- Evaluating the UX Book Presentation: [Youtube](https://youtu.be/k5_8u3xGH1U) (as part of COMP5427 course assignment)
+- Hello DKU ECE: [Youtube](https://youtu.be/ZZZp-ZKcbMI) (as part of application material to DKU)
 
 <!---
 owenchanghao/owenchanghao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
