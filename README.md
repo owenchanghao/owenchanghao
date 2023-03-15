@@ -13,7 +13,7 @@ How to reach me? Feel free to send email to changhaoli.gz@outlook.com
 
 
 Here are some of my featured works:
-- A Demo of Food-logging App Prototype: [Youtube](https://youtu.be/FUjfoXETBJE) (as part of COMP5427 course assignment)
+- A Demo of Food-logging App Prototype using Figma: [Youtube](https://youtu.be/FUjfoXETBJE) (as part of COMP5427 course assignment)
 - Selected Examples of WeChat Design Flaws: [Youtube](https://youtu.be/EzQKc3vNjQs) (as part of the honours thesis project)
 - WeChat as Gerontech: [Youtube](https://youtu.be/rjwVaJc965E) (as honours thesis presentation)
 - Concepts of Usability Engineering: [PDF](https://github.com/owenchanghao/selected-works/blob/main/concepts-of-usability-engineering.pdf)
